@@ -31,7 +31,17 @@ Two helper functions are provided to visualize the generated data:
     * A contour plot of the velocity magnitude with a quiver plot overlay to show vector direction.
     This function also saves the combined plots to `burgers_patterns.png`.
 
+<img width="1136" height="377" alt="Screenshot 2025-10-24 182415" src="https://github.com/user-attachments/assets/7de66243-6218-4244-a1ce-d67640f23b64" />
+
+<img width="1151" height="491" alt="Screenshot 2025-10-24 182509" src="https://github.com/user-attachments/assets/5e3408b0-ea11-4f2f-83e5-44c49fe4378b" />
+
+<img width="1130" height="478" alt="Screenshot 2025-10-24 182501" src="https://github.com/user-attachments/assets/84cc1865-cae7-4850-9c29-e144d06b5687" />
+
+
 * **`visualize_time_evolution`**: This function takes the data for a *single* viscosity value and generates a series of contour plots for both U and V velocities at different time steps (t=0, 0.25, 0.5, 0.75, 1.0), illustrating the decay of the velocity fields over time.
+
+<img width="1148" height="458" alt="Screenshot 2025-10-24 182445" src="https://github.com/user-attachments/assets/900b159b-cffc-4c52-94a9-5a5c8b2fbc7c" />
+
 
 ## Model characteristics:
 
