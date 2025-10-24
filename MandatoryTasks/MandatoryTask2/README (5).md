@@ -80,7 +80,8 @@ Both w and x contribute meaningfully to the prediction of y, though their intera
 
 ## Results Interpretation
 
-The model demonstrates strong predictive capability across the range of input values. The relatively low mean absolute error indicates that predictions deviate from true values by approximately 0.57 units on average, which represents good performance given the complexity of the underlying relationship.
+<img width="1152" height="667" alt="image" src="https://github.com/user-attachments/assets/d023680c-20b4-4abe-88b1-3e1fde677cb6" />
+
 
 The residual analysis shows that errors are generally unbiased and follow an approximately normal distribution, suggesting that the model has successfully captured the systematic component of the relationship without significant underfitting or overfitting.
 
