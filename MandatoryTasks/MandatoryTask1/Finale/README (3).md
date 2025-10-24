@@ -227,40 +227,8 @@ Answer (French): Il produit une grande partie de l'oxygène de la planète.
 
 ## System Workflow
 
-```
-┌─────────────────┐
-│  English Input  │
-│  Question +     │
-│  Context        │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────────────────┐
-│  RoBERTa QA Model           │
-│  - Tokenization             │
-│  - Answer Span Detection    │
-│                             │
-└────────┬────────────────────┘
-         │
-         ▼
-┌─────────────────┐
-│  English Answer │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────────────────┐
-│  mBART50 M2M Translator     │
-│  - English to French        │
-│  - Semantic Preservation    │
-└────────┬────────────────────┘
-         │
-         ▼
-┌─────────────────┐
-│  French Answer  │
-└─────────────────┘
+<img width="982" height="898" alt="image" src="https://github.com/user-attachments/assets/fff9e689-338f-4ad4-9a5c-7c0f7de92dcb" />
 
-
-```
 
 
 ## Example Use Cases
