@@ -4,6 +4,8 @@
 
 This project tackles a regression problem involving three variables: w, x, and y. The objective is to develop a predictive model that accurately estimates y based on the input features w and x. The dataset, while structurally simple, exhibits complex non-linear patterns that require careful feature engineering and model selection and it contains a huge dataset (100M rows).
 
+**NOTE: The model (NN here), that I have trained does not much coincide with the actual graph, due to constraint in computation power, and time I was not able to improve it much. But I will in future will come again to this project and imrove as much as possivle.**
+
 ## Dataset Description
 
 The dataset consists of three columns:
