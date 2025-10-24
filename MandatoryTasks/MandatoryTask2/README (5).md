@@ -104,4 +104,3 @@ The residual analysis shows that errors are generally unbiased and follow an app
 - Hyperparameter optimization for the Fourier feature transformation
 - Alternative neural network architectures such as residual networks
 
-The project demonstrates the importance of exploratory data analysis, appropriate feature engineering, and careful model selection when tackling complex regression problems.
